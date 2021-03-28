@@ -17,10 +17,6 @@ Adicionar uma nova tarefa, marcar como concluida e excluir tarefas.
 
 ## Run
 
-### Iniciar API
-```yarn server```
-
-
 ### Iniciar aplicação
 ```yarn dev```
 
